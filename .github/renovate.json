@@ -3,5 +3,8 @@
     "arianvp/wire-server-deploy"
   ],
   "platform": "github",
-  "renovateFork": true
+  "renovateFork": true,
+  "git-submodules": {
+    "enabled": true  
+  }
 }
