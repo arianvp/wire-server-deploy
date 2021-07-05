@@ -1,1 +1,6 @@
-{}
+{
+  "repositories" : [
+    "arianvp/wire-server-deploy"
+  ],
+  "platform": "github"
+}
