@@ -8,7 +8,7 @@ provider "aws" {
 }
 
 module "vpc" {
-  source = "github.com/terraform-aws-modules/terraform-aws-vpc?ref=v2.33.0"
+  source = "github.com/terraform-aws-modules/terraform-aws-vpc?ref=v2.78.0"
 
   name = var.name
 
