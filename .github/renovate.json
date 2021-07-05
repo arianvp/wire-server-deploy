@@ -3,4 +3,5 @@
     "arianvp/wire-server-deploy"
   ],
   "platform": "github"
+  "renovateFork": true
 }
